@@ -22,7 +22,7 @@ Ensure you have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/chat-app.git](https://github.com/Vengateshwaran1/Zephyr.git
+   git clone https://github.com/your-username/chat-app.git](https://github.com/Ashvanth-kumar/Zephyr.git
    cd Zephyr
    ```
 
